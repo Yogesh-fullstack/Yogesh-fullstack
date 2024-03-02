@@ -1,4 +1,4 @@
-![logo](https://github.com/Yogesh-fullstack/Yogesh-fullstack/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape.png)
+![logo](https://github.com/Yogesh-fullstack/Yogesh-fullstack/blob/main/Screenshot%202024-03-03%20001451.png)
 <h1 align="center">Hi 👋, I'm Yogesh Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
